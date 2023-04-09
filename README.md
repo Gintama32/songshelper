@@ -1,1 +1,1 @@
-# songshelper
+This is my old project where I had built a small website wehre I could go and pick songs to hear based on my mood. I always had trouble finding music to my mood, so I creaeted a whole list of my go-to music and arranged them.
